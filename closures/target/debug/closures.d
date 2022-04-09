@@ -1,0 +1,1 @@
+/mnt/9a3f66c9-6d6d-4e50-b992-ca8f034e1022/Estudos/Projetos_Paralelos/Rust/closures/target/debug/closures: /mnt/9a3f66c9-6d6d-4e50-b992-ca8f034e1022/Estudos/Projetos_Paralelos/Rust/closures/src/main.rs
